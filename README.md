@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SaraAD76
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning webs developmednt
+- 🌱 I’m currently learning web developmednt
 - 💞️ I’m looking to collaborate on all kinds of intersting projects
 - 📫 How to reach me swair76.sa@gmail.com
 
