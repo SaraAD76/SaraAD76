@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @SaraAD76
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning ML 
-- 💞️ I’m looking to collaborate on intersting projects
-- 📫 How to reach me swair76.sa@gmail.com
+- 👋 Hi,I'm Sarah. a full stack developer.
+- 🌱 I use python , django ,react and other technologies.
+- I'm currently learning AWS services.
+- I’m really invested in AI and ML.
+- 📫 contact me via sara76ad@gmail.com
+- check out my portfolio : www.developersarah.com
 
-<!---
-SaraAD76/SaraAD76 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
